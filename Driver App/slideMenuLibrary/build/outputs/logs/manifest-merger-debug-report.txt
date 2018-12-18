@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml:8:22-76
+uses-sdk
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+		ADDED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from C:\Users\ashish\Desktop\Again ara\Driver_App2\Driver App\slideMenuLibrary\AndroidManifest.xml
